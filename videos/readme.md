@@ -1,6 +1,6 @@
 ## Visualizing layer activation during axial transit 
 
-This repository holds videos that visualize how a neural network infers gas-liquid superficial
+The dropbox folders linked below hold videos that visualize how a neural network infers gas-liquid superficial
 velocities from high-resolution high-frequency 3D void fraction distributions.  Details available at
 [arXiv:2003.08182 [physics.flu-dyn]](https://arxiv.org/abs/2003.08182) ("Model E" is used to
 generate output presented). All nomenclature from the paper are preserved.
